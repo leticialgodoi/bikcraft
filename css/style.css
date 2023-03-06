@@ -3,8 +3,11 @@
 @import "./utilidades/cores.css";
 @import "./home/header.css";
 
+/*Utilidades*/
+@import "./utilidades/componentes.css";
+
 /*Home*/
 @import "./home/introducao.css";
 
-/*Utilidades*/
-@import "./utilidades/componentes.css";
+/*Bicicletas*/
+@import "./bicicletas/bicicletas-lista.css";
